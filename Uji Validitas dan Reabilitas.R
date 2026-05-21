@@ -25,18 +25,3 @@ cor(item, total)
 alpha(item)$total
 # Menampilkan hasil cronbach Alphanya saja
 alpha(item)$total$raw_alpha
-
-# Tampilkan Presentase 
-lapply(item, function(x) prop.table(table(x))*100)
-
-# Hitung jumlah jawaban puas (4 dan 5)
-puas <- sum(item == 4 | item == 5)
-
-# Hitung total seluruh jawaban
-total_jawaban <- length(as.matrix(item))
-
-# Naive Estimate
-naive <- puas / total_jawaban
-
-# Tampilkan hasil
-naive
