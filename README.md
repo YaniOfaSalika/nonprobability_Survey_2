@@ -263,17 +263,16 @@ Berdasarkan hasil survei, mayoritas responden adalah perempuan sebanyak 53 orang
 
 ### Diagram Batang Distribusi Gender
 
-Grafik batang menunjukkan bahwa jumlah responden perempuan lebih banyak dibandingkan responden laki-laki.
+<img width="422" height="270" alt="Diagram Batang Responden berdasarkan Jenis Kelamin" src="https://github.com/user-attachments/assets/0c4a5864-9e38-47ce-a46e-6317c3fe7d10" />
 
----
+Berdasarkan diagram batang distribusi gender, terlihat bahwa jumlah responden perempuan lebih banyak dibandingkan responden laki-laki. Responden perempuan berjumlah 53 orang, sedangkan responden laki-laki sebanyak 9 orang. Perbedaan jumlah responden ini menunjukkan bahwa partisipasi mahasiswa perempuan dalam pengisian kuesioner lebih tinggi dibandingkan mahasiswa laki-laki. Ketidakseimbangan distribusi responden tersebut dapat memengaruhi hasil estimasi sehingga pada penelitian ini dilakukan weighted estimation untuk mengurangi potensi bias akibat perbedaan proporsi gender.
 
 ### Pie Chart Distribusi Gender
 
-<img width="500" alt="Pie Chart Gender" src="LINK GAMBAR PIECHART" />
+<img width="320" height="184" alt="Pie Chart Distribusi Responden berdasarkan Jenis Kelamin" src="https://github.com/user-attachments/assets/7c2a7b78-aa2e-4a27-b82c-f569cd254a81" />
 
 Pie chart menunjukkan bahwa proporsi responden perempuan mendominasi dibandingkan responden laki-laki.
+Pie chart menunjukkan bahwa sebagian besar responden dalam penelitian ini didominasi oleh mahasiswa perempuan dengan persentase sebesar 85,5%, sedangkan responden laki-laki hanya sebesar 14,5%. Dominasi responden perempuan menunjukkan bahwa sampel penelitian belum tersebar secara seimbang berdasarkan gender. Oleh karena itu, dilakukan pembobotan (weighting) agar hasil estimasi tingkat kepuasan mahasiswa menjadi lebih representatif terhadap populasi sebenarnya.
 
 ## Kesimpulan
-
-Berdasarkan hasil analisis yang telah dilakukan, diperoleh nilai naive estimate sebesar 74,35% dan weighted estimate sebesar 74,8%. Kedua hasil tersebut menunjukkan bahwa tingkat kepuasan mahasiswa terhadap kondisi lingkungan kampus FMIPA Universitas Mataram berada pada kategori tinggi.
-Perbedaan antara naive estimate dan weighted estimate sangat kecil, namun weighted estimate dianggap lebih representatif karena telah mempertimbangkan proporsi gender dalam populasi. Dengan demikian, dapat disimpulkan bahwa mahasiswa cenderung puas terhadap kondisi lingkungan kampus.
+Berdasarkan hasil analisis yang telah dilakukan, diperoleh bahwa tingkat kepuasan mahasiswa terhadap penggunaan Sistem Informasi Akademik (SIAKAD) di Program Studi Statistika Universitas Mataram berada pada kategori tinggi. Hasil naive estimation menunjukkan tingkat kepuasan sebesar 74,35%, sedangkan weighted estimation sebesar 74,8%. Perbedaan kedua hasil tersebut relatif kecil sehingga menunjukkan bahwa hasil estimasi cukup stabil. Selain itu, hasil uji validitas menunjukkan seluruh item pertanyaan valid dan hasil uji reliabilitas menunjukkan instrumen penelitian sangat reliabel dengan nilai Cronbach’s Alpha sebesar 0,924. Dengan demikian, dapat disimpulkan bahwa mahasiswa cenderung puas terhadap penggunaan SIAKAD di Program Studi Statistika Universitas Mataram.
